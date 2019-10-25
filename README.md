@@ -11,5 +11,5 @@ two lines without giving them some style. So let yourself be carried away
 by your imagination and see if you get a good page.
 
 >things that have to appear to your liking:
--Your GitHub account.
+-Your GitHub  account.
 -Name of your university.
